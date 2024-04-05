@@ -1,4 +1,4 @@
-fetch('https://script.google.com/macros/s/AKfycby337o2QqYerofvtWQ8HMlGTL-pQxcICTXZtl8QuH0KIV3cwXBGtMdECS0wSGVkUl0D/exec')
+fetch('https://script.google.com/macros/s/AKfycbwjmHynzWVWW3HEDOTqU63sWB0Bf_v1X1LoWobs1StQi2kooIVIwIPoBuwsuDW1dIZ3cg/exec')
     .then(response => response.json())
     .then(data => {
       const tableBody = document.getElementById('tableBody');
