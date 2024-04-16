@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxfEjlufhsFr9z_UNmqnKZ83V6IJif6UrJrL2RwyUakgtwrM87hL6xwyzKP3DlKIVL5mw/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwjmHynzWVWW3HEDOTqU63sWB0Bf_v1X1LoWobs1StQi2kooIVIwIPoBuwsuDW1dIZ3cg/exec';
 const form = document.forms['pendataan-mitra'];
 
 form.addEventListener('submit', e => {
